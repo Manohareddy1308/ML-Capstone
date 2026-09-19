@@ -1,2 +1,2 @@
-model,R2,RMSE,MAE
-Support Vector Regressor (SVR),0.2508385029407647,0.7838415138861975,0.606046808867077
+model,accuracy,precision,recall,weighted_f1,roc_auc
+Support Vector Classifier (SVC),0.893177,0.650327,0.188091,0.866132,0.892569
