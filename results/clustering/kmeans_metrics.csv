@@ -1,0 +1,2 @@
+algorithm,n_clusters,silhouette,davies_bouldin,calinski_harabasz
+K-Means,4,0.344465704822464,0.9253527275924462,3780.671640065651
