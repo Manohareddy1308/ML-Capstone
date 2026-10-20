@@ -1,0 +1,2 @@
+best_params,best_cv_weighted_f1,accuracy,precision,recall,weighted_f1,roc_auc
+"{'model__learning_rate': 1.0, 'model__n_estimators': 150}",0.8853972338175945,0.8971580227800509,0.6092150170648464,0.33742911153119093,0.8838709600126103,0.8980113942375414
