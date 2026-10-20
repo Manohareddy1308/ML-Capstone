@@ -1,0 +1,4 @@
+algorithm,linkage,n_clusters,silhouette,davies_bouldin,calinski_harabasz
+Agglomerative (ward),ward,4,0.310630525944892,0.9884544460750986,3408.3823396877683
+Agglomerative (complete),complete,4,0.2701359289128469,0.8973105276801971,1721.1057679997552
+Agglomerative (average),average,4,0.33034289844007314,0.689251051240326,77.27854365007066
